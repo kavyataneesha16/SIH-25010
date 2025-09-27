@@ -146,7 +146,6 @@ Optimized fertilizer/pesticide recommendations prevent overuse of chemicals.
 Encourages climate-smart farming, balancing productivity with long-term soil and environmental health.</li></ul>
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
 <ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
   End-to-End Advisory (“Soil to Market”)
 
@@ -254,7 +253,6 @@ Refine AI models with new datasets.
 Gradually add more crops, regions, and features like IoT soil sensors.</ul>
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
 <ul><li>Analysis of the feasibility of the idea
 Technical Feasibility
 
@@ -385,7 +383,6 @@ Conclusion
 By combining technical solutions, community involvement, and strategic partnerships, the proposed system can overcome adoption barriers, operate effectively in rural conditions, and scale sustainably across India.</ul>
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
 <ul><li>Potential impact on the target audience
 The primary target audience is small and marginal farmers, who often face limited access to reliable, localized, and timely agricultural advice. The proposed Smart Crop Advisory System has the potential to transform their farming practices and livelihoods in several ways:
 
